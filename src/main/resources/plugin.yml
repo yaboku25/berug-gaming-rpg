@@ -1,0 +1,4 @@
+name: BerugRPG
+version: '${project.version}'
+main: me.konanxd.berugrpg.BerugRPG
+api-version: '1.21'
